@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.title{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    background-color: saddlebrown;
+    border: 2px solid black;
+}
+
+.title-img{
+    height: 500px;
+    width: 1500px;
+}
+
+h1{
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 42px;
+    color: rgb(218, 218, 218);
+}
+
+h2{
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 25px;
+    color: rgb(7, 7, 7);
+}
+
+li{
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 22px;
+    color: rgb(7, 7, 7);
+}
+
+p{
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 22px;
+    color: rgb(7, 7, 7);
+}
+
+.recept{
+    background-color: saddlebrown;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.recept-palov-img{
+    width: 320px;
+}
+
+.menu{
+    text-align: center;
+    background-color: saddlebrown;
+}
+
+.p-element{
+    max-width: 400px;
+    margin: auto;
+    padding: 80px;
+}
